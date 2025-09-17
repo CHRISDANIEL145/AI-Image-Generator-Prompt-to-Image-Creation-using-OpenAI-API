@@ -13,3 +13,5 @@ Select the number of images to generate.
 Download images with a simple double-click.
 
 The project highlights the capabilities of Generative AI in creative design and demonstrates real-world integration of AI models into web applications. It can be extended for use in graphic design, content creation, and digital art platforms.
+
+myenv file in "https://huggingface.co/Danielchris145/AI-Image-Generator-Prompt-to-Image-Creation-using-OpenAI-API"
